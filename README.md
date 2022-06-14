@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nova</h1>
-<h3 align="center">🐱‍👓 In my free time I like software development in general and also reverse engineering.</h3>
 
 - 🔭 I’m currently working on **NYZX**
 
