@@ -1,6 +1,4 @@
 # 💫About Me :
-The desire to know more is what motivates me in this hobby, since everyday I learn something new that helps me improve and learn from the mistakes made.
-
 🔭 I’m currently working on NYZX
 
 🌱 I’m currently learning C++
