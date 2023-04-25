@@ -1,3 +1,5 @@
+<img src="https://github.com/qzxtu/qzxtu/blob/main/header.png" alt="GitHub README header image">
+
 # 💫About Me :
 🔭 I’m currently working on NYZX
 
