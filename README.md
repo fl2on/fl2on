@@ -5,7 +5,7 @@
 - <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; I’m currently working on **NYZX**. <br>
 - <img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" width="25" />&nbsp;&nbsp; Ask me about **Custom Mechanical Keyboard**,  **Pc building, Technology, or anything else**. <br>
 - <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; You may contact me here: **[fl2on](fl2on@engineer.com)**<br>
-- <img src="https://cdn3.emoji.gg/emojis/6544-kirbybye.gif" width="25" /> &nbsp; Currently a Student of Systems Engineering at **[UIP](https://uip.edu.pa/)**.<br>
+- <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; Currently a Student of Systems Engineering at **[UIP](https://uip.edu.pa/)**.<br>
 
 ## 🌐Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCdVLW0gBG9cDwd7qDcd9EbQ) 
