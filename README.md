@@ -16,9 +16,11 @@
 <details>
   <summary>More stats</summary>
   <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" >
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" >
+  <p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 300>
+</p>
 </details>
 </div>
 
