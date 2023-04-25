@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on NYZX
 
-🌱 I’m currently learning Ruby
+🌱 Machine learning is an area I'm focusing on right now.
 
 ## 🌐Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCdVLW0gBG9cDwd7qDcd9EbQ) 
