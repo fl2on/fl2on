@@ -10,6 +10,9 @@
 ## 🎶Music Vibe
 ![Spotify](https://tthn0.vercel.app/api?theme=dark)
 
+## <img src="https://cdn.discordapp.com/attachments/1008195045960204349/1100647375388803214/image-removebg-preview_2.png" width="25px" height="25px" /> DiscordRPC
+[![Discord Presence](https://lanyard.cnrad.dev/api/747543630176321637)](https://discord.com/users/747543630176321637)<img width="20%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" /><br>
+
 ## 🌐Socials
 <p><a href="https://twitter.com/nova_qzxtu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/franklin-leon-19a642258/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/qzxtu9/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/channel/UCdVLW0gBG9cDwd7qDcd9EbQ"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://dev.to/qzxtu"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
