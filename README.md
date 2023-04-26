@@ -19,7 +19,7 @@
 ## 📊GitHub Stats
 ![Metrics](https://metrics.lecoq.io/qzxtu?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)<img width="30%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
 <details> 
-  <summary>More stats</summary>
+  <summary>More Stats</summary>
   <br/>
   <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400>
