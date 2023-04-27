@@ -41,7 +41,7 @@
 
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fqzxtu.github.io%2F)
 ![](https://img.shields.io/github/last-commit/qzxtu/qzxtu)
-<img src="https://visitcount.itsvg.in/api?id=qzxtu&icon=0&color=3" width="150" height="21">
+<img src="https://visitcount.itsvg.in/api?id=qzxtu&icon=0&color=12" width="150" height="21">
 
 ## 📑Support me
 <!-- Your support, if you have it 
