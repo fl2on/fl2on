@@ -51,9 +51,9 @@ I created these images, feel free to use them.
 
 <p align="center">
   <a href="https://paypal.me/nova355killer" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+      <img width="18%" alt="Donate with Paypal" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101024424490180608/support-paypal.png"/>
   </a>
-  <a href="https://img.shields.io/badge/kofi-00457C?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  <a href="https://ko-fi.com/nova72648" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101024424779579423/support-buy-coffee.png"/>
   </a>
 </p>
