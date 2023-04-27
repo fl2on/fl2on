@@ -10,7 +10,7 @@
 ## 🎶Music Vibe
 ![Spotify](https://tthn0.vercel.app/api?theme=dark)
 
-## <img src="https://cdn.discordapp.com/attachments/1008195045960204349/1100647375388803214/image-removebg-preview_2.png" width="22px" height="22px" /> DiscordRPC
+## <img src="https://raw.githubusercontent.com/qzxtu/qzxtu/e2c19fdcb7917954d940ec5ef2104c45f74e9d52/discord.svg" width="22px" height="22px" /> DiscordRPC
 [![Discord Presence](https://lanyard.cnrad.dev/api/747543630176321637)](https://discord.com/users/747543630176321637)<img width="17%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" /><br>
 
 ## 🌐Socials
