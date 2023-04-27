@@ -1,4 +1,20 @@
 <img src="https://github.com/qzxtu/qzxtu/blob/main/header.png" alt="GitHub README header image">
+<div align="left">
+  <details>
+    <summary>:globe_with_meridians: Languages Available</summary>
+    <p align="center">
+      <a href="README.md"><img src="https://flagsapi.com/US/flat/32.png" height="11"> English</a>
+      |
+      <a href="README_ES.md"><img src="https://flagsapi.com/ES/flat/32.png" height="11"> Español</a>
+      |
+      <a href="README_FR.md"><img src="https://flagsapi.com/FR/flat/32.png" height="11"> Français</a>
+      |
+      <a href="README_ZH.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 中文</a>
+      |
+      <a href="README_DE.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
+    </p>
+  </details>
+</div>
 
 ## 💫About Me
 -  <img alt="GIF" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25" /> &nbsp; **Machine learning** is an area I'm focusing on right now. <img width="15%" align="right" alt="Github Image" src="https://thepixelshopapp.files.wordpress.com/2022/11/5ae52-tanuki_sumiez.gif" /><br>
