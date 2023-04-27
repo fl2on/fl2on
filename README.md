@@ -21,7 +21,7 @@
 
 ## 📊GitHub Stats
 ![Metrics](https://metrics.lecoq.io/qzxtu?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)<img width="30%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
-<details> 
+<details>   
   <summary>More Stats</summary>
   <br/>
   <p align = "center">
@@ -33,6 +33,7 @@
 </div>
 
 ---
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -44,6 +45,10 @@
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
+<p align="center">
+   <img width="100%" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101002556966191104/f6wxdatim6oa1.gif"/>
+</p>
+
 <p align="center">
   <a href="https://paypal.me/nova355killer" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
