@@ -18,7 +18,7 @@
 
 ## 💫关于我
 -  <img alt="GIF" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="25" /> &nbsp; **机器学习**是我现在正在关注的一个领域。 <img width="15%" align="right" alt="Github Image" src="https://thepixelshopapp.files.wordpress.com/2022/11/5ae52-tanuki_sumiez.gif" /><br>
-- <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; 我目前正在进行**NYZX**的工作。. <br>
+- <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; 我目前正在进行**NYZX**的工作。<br>
 - <img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" width="25" />&nbsp;&nbsp; 向我咨询**定制机械键盘**，**电脑制造，技术，或其他任何事情**。 <br>
 - <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; 你可以在这里联系我：**[fl2on](fl2on@engineer.com)**<br>
 - <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; 我目前是美国大学系统工程专业的学生。**[UIP](https://uip.edu.pa/)**.<br>
