@@ -55,6 +55,16 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<details open> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  
+  <!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+  
+</details>
+
 ---
 
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fqzxtu.github.io%2F)
