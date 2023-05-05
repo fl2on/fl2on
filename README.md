@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400>       <img width="23%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
-<details>   
+<details open>   
   <summary>More Stats</summary>
   <br/>
   <p align = "center">
@@ -50,13 +50,10 @@
 </details>
 </div>
 
----
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+## 💡Misc Stuff
 <details open> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  <summary><h3>📺 Latest YouTube Videos</h2></summary>
+  <br/>
   
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -70,6 +67,15 @@
   <!-- prettier-ignore-end -->
   
 </details>
+
+<details open> 
+  <summary><h3>✍️Random Dev Quote</h2></summary>
+  <br/>
+  <p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width = 60%>
+</p>
+</details>
+
 
 ---
 
