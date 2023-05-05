@@ -41,11 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400>       <img width="25%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
-
 <details>   
   <summary>More Stats</summary>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=000000&color=e8e8e8&line=f5f5f5&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br/>
+  <p align = "center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true" width = 100%>
+</p>
 </details>
 </div>
 
