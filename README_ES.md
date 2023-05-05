@@ -11,6 +11,8 @@
       |
       <a href="README_ZH.md"><img src="https://flagsapi.com/CN/flat/32.png" height="11"> 中文</a>
       |
+      <a href="README_JA.md"><img src="https://flagsapi.com/JP/flat/32.png" height="11"> 日本語</a>
+      |
       <a href="README_DE.md"><img src="https://flagsapi.com/DE/flat/32.png" height="11"> Deutsch</a>
     </p>
   </details>
