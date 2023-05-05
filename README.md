@@ -52,7 +52,7 @@
 
 ## 💡Misc Stuff
 <details open> 
-  <summary><h3>📺 Latest YouTube Videos</h2></summary>
+  <summary><h3>📽️ Latest YouTube Videos</h2></summary>
   <br/>
   
   <!-- prettier-ignore-start -->
@@ -75,7 +75,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width = 60%>
 </p>
 </details>
-
 
 ---
 
