@@ -70,10 +70,9 @@
 
 <details open> 
   <summary><h3>✍️Random Dev Quote</h2></summary>
-  <br/>
-  <p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width = 50%>
-</p>
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </details>
 
 ---
