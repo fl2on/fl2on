@@ -83,8 +83,6 @@
 ![](https://img.shields.io/github/last-commit/qzxtu/qzxtu)
 <img src="https://visitcount.itsvg.in/api?id=qzxtu&icon=0&color=12" width="150" height="21">
 
----
-
 ## 📑Unterstützen Sie mich
 <p align="center">
    <img width="100%" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101002556966191104/f6wxdatim6oa1.gif"/>
