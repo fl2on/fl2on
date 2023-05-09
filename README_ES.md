@@ -78,10 +78,12 @@
 ---
 
 [![Created By - qzxtu](https://img.shields.io/badge/Created_By-qzxtu-2ea44f)](https://github.com/qzxtu)
-[![License](https://img.shields.io/badge/License-Apache_License_2.0-blue)](#license)
+[![License](https://img.shields.io/badge/License-Apache_License_2.0-blue)](https://github.com/qzxtu/qzxtu/blob/main/LICENSE)
 ![](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fqzxtu.github.io%2F)
 ![](https://img.shields.io/github/last-commit/qzxtu/qzxtu)
 <img src="https://visitcount.itsvg.in/api?id=qzxtu&icon=0&color=12" width="150" height="21">
+
+---
 
 ## 📑Apóyame
 <p align="center">
