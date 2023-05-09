@@ -37,11 +37,11 @@
 ## 💻Technischer Stapel
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## 📊GitHub Statistiken
+## 📊GitHub Statistik
   <img src="https://github-readme-stats.vercel.app/api?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width = 400>       <img width="23%" align="right" alt="Github Image" src="https://64.media.tumblr.com/tumblr_lrhdzmLDWU1qfctcoo1_400.gif" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
-<details>   
+<details open>   
   <summary>Mehr Statistiken</summary>
   <br/>
   <p align = "center">
@@ -50,10 +50,30 @@
 </details>
 </div>
 
----
+## 💡Verschiedenes
+<details open> 
+  <summary><h3>📽️Neueste YouTube Videos</h2></summary>
+  <br/>
+  
+  <!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![NYZX | Virus Total Discord Scam Detector V2.0 (.Net Reverse)](https://ytcards.demolab.com/?id=TOE63uw_kLk&title=NYZX+%7C+Virus+Total+Discord+Scam+Detector+V2.0+%28.Net+Reverse%29&lang=en&timestamp=1657998958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NYZX | Virus Total Discord Scam Detector V2.0 (.Net Reverse)")](https://www.youtube.com/watch?v=TOE63uw_kLk)
+[![[General Crypto Check] // [Discord Bot Cmd Test] // [NYZX] (2/10/2022)](https://ytcards.demolab.com/?id=Wz1j9q9yJeE&title=%5BGeneral+Crypto+Check%5D+%2F%2F+%5BDiscord+Bot+Cmd+Test%5D+%2F%2F+%5BNYZX%5D+%282%2F10%2F2022%29&lang=en&timestamp=1644541727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "[General Crypto Check] // [Discord Bot Cmd Test] // [NYZX] (2/10/2022)")](https://www.youtube.com/watch?v=Wz1j9q9yJeE)
+[![Image Colorization ( AI ) // NYZX // Cmd Test // Discord Bot 👨‍💻](https://ytcards.demolab.com/?id=Ak8qTDGPKeg&title=Image+Colorization+%28+AI+%29+%2F%2F+NYZX+%2F%2F+Cmd+Test+%2F%2F+Discord+Bot+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&lang=en&timestamp=1643859038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Image Colorization ( AI ) // NYZX // Cmd Test // Discord Bot 👨‍💻")](https://www.youtube.com/watch?v=Ak8qTDGPKeg)
+[![NYZX // Math Cmd Test || Discord Bot](https://ytcards.demolab.com/?id=7Tc0hobVDSE&title=NYZX+%2F%2F+Math+Cmd+Test+%7C%7C+Discord+Bot&lang=en&timestamp=1643856547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NYZX // Math Cmd Test || Discord Bot")](https://www.youtube.com/watch?v=7Tc0hobVDSE)
+[![[Guess Anime Scene] || Test || Nyzx || Discord Bot || 🛠](https://ytcards.demolab.com/?id=wR-TgTVeGM8&title=%5BGuess+Anime+Scene%5D+%7C%7C+Test+%7C%7C+Nyzx+%7C%7C+Discord+Bot+%7C%7C+%F0%9F%9B%A0&lang=en&timestamp=1643809161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "[Guess Anime Scene] || Test || Nyzx || Discord Bot || 🛠")](https://www.youtube.com/watch?v=wR-TgTVeGM8)
+[![Discord URL Finder [Server Moderator Tool] NYZX (28/11/2021)](https://ytcards.demolab.com/?id=5LCWAQW50Ww&title=Discord+URL+Finder+%5BServer+Moderator+Tool%5D+NYZX+%2828%2F11%2F2021%29&lang=en&timestamp=1638094416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Discord URL Finder [Server Moderator Tool] NYZX (28/11/2021)")](https://www.youtube.com/watch?v=5LCWAQW50Ww)
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+  
+</details>
 
-### ✍️Zufälliges Dev Zitat
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<details open> 
+  <summary><h3>✍️Zufälliges Dev Zitat</h2></summary>
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</details>
 
 ---
 

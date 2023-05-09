@@ -52,7 +52,7 @@
 
 ## 💡Misc Stuff
 <details open> 
-  <summary><h3>📽️ Latest YouTube Videos</h2></summary>
+  <summary><h3>📽️Latest YouTube Videos</h2></summary>
   <br/>
   
   <!-- prettier-ignore-start -->
