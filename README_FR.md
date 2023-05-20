@@ -22,7 +22,7 @@
 -  <img alt="GIF" src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="25" /> &nbsp; **L'apprentissage machine** est un domaine sur lequel je me concentre actuellement. <img width="15%" align="right" alt="Github Image" src="https://thepixelshopapp.files.wordpress.com/2022/11/5ae52-tanuki_sumiez.gif" /><br>
 - <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; Je travaille actuellement sur **NYZX**. <br>
 - <img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" width="25" />&nbsp;&nbsp; Posez moi des questions sur **Clavier mécanique personnalisé**, **Construction de PC, Technologie, ou tout autre sujet**. <br>
-- <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; Vous pouvez me contacter ici: **[fl2on](fl2on@engineer.com)**<br>
+- <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; Vous pouvez me contacter ici: **[fl2on](https://qzxtu.github.io/Mail/)**<br>
 - <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; Je suis actuellement étudiant en ingénierie des systèmes à **[UIP](https://uip.edu.pa/)**.<br>
 
 ## 🎶Musique Vibe
