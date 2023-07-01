@@ -45,7 +45,7 @@
   <summary>More Stats</summary>
   <br/>
   <p align = "center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true" width = 100%>
+  <img src="https://qzxtu.github.io/Readme-Image-Validator/" width = 100%>
 </p>
 </details>
 </div>
