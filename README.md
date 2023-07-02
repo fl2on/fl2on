@@ -85,7 +85,6 @@
 
 ## 📑Support me
 <p align="center">
-  [![URL Status](https://github.com/qzxtu/qzxtu/actions/workflows/check_url.yml/badge.svg)](https://github.com/qzxtu/qzxtu/actions/workflows/check_url.yml)
 </p>
 
 <p align="center">
