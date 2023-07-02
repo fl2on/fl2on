@@ -45,7 +45,7 @@
   <summary>More Stats</summary>
   <br/>
   <p align = "center">
-  <img src="https://qzxtu.github.io/Readme-Image-Validator/" width = 100%>
+  <img src="URL_PLACEHOLDER" width="100%">
 </p>
 </details>
 </div>
