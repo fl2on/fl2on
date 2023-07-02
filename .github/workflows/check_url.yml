@@ -1,0 +1,47 @@
+name: Actualizar README con URL válida
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install replace-text action
+        run: npm install -g replace-text-action
+
+      - name: Check first URL
+        id: check_first_url
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" "https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto")
+          if [[ "$response" -eq 200 ]]; then
+            echo "::set-output name=url::https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto"
+          fi
+
+      - name: Check second URL
+        id: check_second_url
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" "https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true")
+          if [[ "$response" -eq 200 ]]; then
+            echo "::set-output name=url::https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true"
+          fi
+
+      - name: Update README with valid URL
+        if: steps.check_first_url.outputs.url != '' || steps.check_second_url.outputs.url != ''
+        run: |
+          if [[ -n "${{ steps.check_first_url.outputs.url }}" ]]; then
+            echo "Using URL: ${{ steps.check_first_url.outputs.url }}"
+            replace-text --inputs README.md --pattern "URL_PLACEHOLDER" --replacement "${{ steps.check_first_url.outputs.url }}"
+          elif [[ -n "${{ steps.check_second_url.outputs.url }}" ]]; then
+            echo "Using URL: ${{ steps.check_second_url.outputs.url }}"
+            replace-text --inputs README.md --pattern "URL_PLACEHOLDER" --replacement "${{ steps.check_second_url.outputs.url }}"
+          fi
