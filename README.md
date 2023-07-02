@@ -85,7 +85,7 @@
 
 ## 📑Support me
 <p align="center">
-   <img width="100%" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101002556966191104/f6wxdatim6oa1.gif"/>
+  [![URL Status](https://github.com/qzxtu/qzxtu/actions/workflows/check_url.yml/badge.svg)](https://github.com/qzxtu/qzxtu/actions/workflows/check_url.yml)
 </p>
 
 <p align="center">
