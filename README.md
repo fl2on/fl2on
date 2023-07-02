@@ -44,9 +44,8 @@
 <details open>   
   <summary>More Stats</summary>
   <br/>
-  <p align = "center">
-    URL_PLACEHOLDER
-  <img src="URL_PLACEHOLDER" width="100%">
+  <p align = "left">
+  <img src="https://metrics.lecoq.io/qzxtu?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto">
 </p>
 </details>
 </div>
