@@ -16,9 +16,6 @@ jobs:
         with:
           node-version: 14
 
-      - name: Install replace-text action
-        run: npm install -g replace-text-action
-
       - name: Check first URL
         id: check_first_url
         run: |
@@ -40,8 +37,8 @@ jobs:
         run: |
           if [[ -n "${{ steps.check_first_url.outputs.url }}" ]]; then
             echo "Using URL: ${{ steps.check_first_url.outputs.url }}"
-            replace-text --inputs README.md --pattern "URL_PLACEHOLDER" --replacement "${{ steps.check_first_url.outputs.url }}"
+            sed -i 's|URL_PLACEHOLDER|'"${{ steps.check_first_url.outputs.url }}"'|' README.md
           elif [[ -n "${{ steps.check_second_url.outputs.url }}" ]]; then
             echo "Using URL: ${{ steps.check_second_url.outputs.url }}"
-            replace-text --inputs README.md --pattern "URL_PLACEHOLDER" --replacement "${{ steps.check_second_url.outputs.url }}"
+            sed -i 's|URL_PLACEHOLDER|'"${{ steps.check_second_url.outputs.url }}"'|' README.md
           fi
