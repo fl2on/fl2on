@@ -42,10 +42,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
 <details open>   
-  <summary>Más estadísticas</summary>
+  <summary>More Stats</summary>
   <br/>
-  <p align = "center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true" width = 100%>
+  <p align = "left">
+  <img src="https://metrics.lecoq.io/qzxtu?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto">
 </p>
 </details>
 </div>
