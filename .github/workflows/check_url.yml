@@ -22,7 +22,7 @@ jobs:
         run: |
           response=$(curl -s -o /dev/null -w "%{http_code}" "https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto")
           if [[ "$response" -eq 200 ]]; then
-            echo "::set-output name=url::https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto"
+            echo "URL=https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" >> $GITHUB_ENV
           fi
 
       - name: Check second URL
@@ -30,16 +30,12 @@ jobs:
         run: |
           response=$(curl -s -o /dev/null -w "%{http_code}" "https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true")
           if [[ "$response" -eq 200 ]]; then
-            echo "::set-output name=url::https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true"
+            echo "URL=https://github-readme-activity-graph.cyclic.app/graph?username=qzxtu&bg_color=141320&color=9bcecc&line=ea538d&point=f3d962&area=true&hide_border=true" >> $GITHUB_ENV
           fi
 
       - name: Update README with valid URL
-        if: steps.check_first_url.outputs.url != '' || steps.check_second_url.outputs.url != ''
+        if: env.URL != ''
         run: |
-          if [[ -n "${{ steps.check_first_url.outputs.url }}" ]]; then
-            echo "Using URL: ${{ steps.check_first_url.outputs.url }}"
-            sed -i 's|URL_PLACEHOLDER|'"${{ steps.check_first_url.outputs.url }}"'|' README.md
-          elif [[ -n "${{ steps.check_second_url.outputs.url }}" ]]; then
-            echo "Using URL: ${{ steps.check_second_url.outputs.url }}"
-            sed -i 's|URL_PLACEHOLDER|'"${{ steps.check_second_url.outputs.url }}"'|' README.md
-          fi
+          url="${{ env.URL }}"
+          echo "Using URL: $url"
+          sed -i "s|URL_PLACEHOLDER|$url|" README.md
