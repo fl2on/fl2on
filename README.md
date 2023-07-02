@@ -45,6 +45,7 @@
   <summary>More Stats</summary>
   <br/>
   <p align = "center">
+    URL_PLACEHOLDER
   <img src="URL_PLACEHOLDER" width="100%">
 </p>
 </details>
