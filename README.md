@@ -85,6 +85,7 @@
 
 ## 📑Support me
 <p align="center">
+      <img width="115%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/qzxtu/qzxtu/main/resources/img/Banner.png"/>
 </p>
 
 <p align="center">
