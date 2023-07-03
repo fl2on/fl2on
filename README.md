@@ -48,7 +48,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
 
-<details open>   
+<details open>
   <summary>More Stats</summary>
   <br/>
   <p align = "left">
@@ -59,10 +59,10 @@
 
 ## 💡Misc Stuff
 
-<details open> 
+<details open>
   <summary><h3>📽️Latest YouTube Videos</h2></summary>
   <br/>
-  
+
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![NYZX | Virus Total Discord Scam Detector V2.0 (.Net Reverse)](https://ytcards.demolab.com/?id=TOE63uw_kLk&title=NYZX+%7C+Virus+Total+Discord+Scam+Detector+V2.0+%28.Net+Reverse%29&lang=en&timestamp=1657998958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "NYZX | Virus Total Discord Scam Detector V2.0 (.Net Reverse)")](https://www.youtube.com/watch?v=TOE63uw_kLk)
@@ -73,10 +73,10 @@
 [![Discord URL Finder [Server Moderator Tool] NYZX (28/11/2021)](https://ytcards.demolab.com/?id=5LCWAQW50Ww&title=Discord+URL+Finder+%5BServer+Moderator+Tool%5D+NYZX+%2828%2F11%2F2021%29&lang=en&timestamp=1638094416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "Discord URL Finder [Server Moderator Tool] NYZX (28/11/2021)")](https://www.youtube.com/watch?v=5LCWAQW50Ww)
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
-  
+
 </details>
 
-<details open> 
+<details open>
   <summary><h3>✍️Random Dev Quote</h2></summary>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
