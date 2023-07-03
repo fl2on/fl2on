@@ -1,4 +1,4 @@
-<img src="https://github.com/qzxtu/qzxtu/blob/main/header.png" alt="GitHub README header image">
+<img src="https://raw.githubusercontent.com/qzxtu/qzxtu/main/resources/img/header.png" alt="GitHub README header image">
 <div align="left">
   <details>
     <summary>:globe_with_meridians: Languages Available</summary>
