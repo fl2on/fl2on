@@ -42,7 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzxtu&theme=radical&hide_border=false" width = 440><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzxtu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 315>
 <details open>   
-  <summary>More Stats</summary>
+  <summary>Mehr Statistiken</summary>
   <br/>
   <p align = "left">
   <img src="https://metrics.lecoq.io/qzxtu?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto">
