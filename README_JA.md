@@ -85,7 +85,7 @@
 
 ## 📑サポートミー
 <p align="center">
-   <img width="100%" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101002556966191104/f6wxdatim6oa1.gif"/>
+      <img width="98%" alt="Banner" src="https://raw.githubusercontent.com/qzxtu/qzxtu/main/resources/img/Banner.png"/>
 </p>
 
 <p align="center">
