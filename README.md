@@ -102,6 +102,6 @@
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/qzxtu/qzxtu/ff227e9cdf74a2cbf4b69f9d92ae8b6ebe87fa5b/resources/img/support-paypal.png"/>
   </a>
   <a href="https://ko-fi.com/nova72648" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://cdn.discordapp.com/attachments/1008195045960204349/1101024424779579423/support-buy-coffee.png"/>
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/qzxtu/qzxtu/blob/b6ba48e183a1fe4dbec633d1b481e0c18c72f377/resources/img/support-buy-coffee.png"/>
   </a>
 </p>
