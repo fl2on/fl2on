@@ -25,9 +25,6 @@
 - <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; 連絡はこちらからお願いします： **[fl2on](https://qzxtu.github.io/Mail/)**<br>
 - <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; で現在システムエンジニアリングを専攻しています。 **[UIP](https://uip.edu.pa/)**.<br>
 
-## 🎶音楽 
-![Spotify](https://tthn0.vercel.app/api?theme=dark)
-
 ## <img src="https://raw.githubusercontent.com/qzxtu/qzxtu/main/resources/img/discord.svg" width="22px" height="22px" /> DiscordRPC
 [![Discord Presence](https://lanyard.cnrad.dev/api/747543630176321637)](https://discord.com/users/747543630176321637)<img width="17%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif" /><br>
 
