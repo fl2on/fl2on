@@ -61,12 +61,7 @@
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![NYZX Music Card (Dsharpplus C#)](https://ytcards.demolab.com/?id=NBDlgj5vKZ8&title=NYZX+Music+Card+%28Dsharpplus+C%23%29&lang=en&timestamp=1700455533&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NYZX Music Card (Dsharpplus C#)")](https://www.youtube.com/watch?v=NBDlgj5vKZ8)
-[![AI Avatar Enhancer Slash Command Test Discord Bot](https://ytcards.demolab.com/?id=TUGLDmxnb6k&title=AI+Avatar+Enhancer+Slash+Command+Test+Discord+Bot&lang=en&timestamp=1700454484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AI Avatar Enhancer Slash Command Test Discord Bot")](https://www.youtube.com/watch?v=TUGLDmxnb6k)
-[![NYZX Discord Bot .Net Obfuscator SlashCommand](https://ytcards.demolab.com/?id=D6LpOO2M7co&title=NYZX+Discord+Bot+.Net+Obfuscator+SlashCommand&lang=en&timestamp=1700453388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NYZX Discord Bot .Net Obfuscator SlashCommand")](https://www.youtube.com/watch?v=D6LpOO2M7co)
-[![Exploring Nyzx Discord Bot: Testing Spotify Song Playback](https://ytcards.demolab.com/?id=AABWY8Jfq4U&title=Exploring+Nyzx+Discord+Bot%3A+Testing+Spotify+Song+Playback&lang=en&timestamp=1688582256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Exploring Nyzx Discord Bot: Testing Spotify Song Playback")](https://www.youtube.com/watch?v=AABWY8Jfq4U)
-[![Testing Nyzx Discord Bot's OCR Feature: Extracting Text from Images](https://ytcards.demolab.com/?id=5qOUVkR1BzI&title=Testing+Nyzx+Discord+Bot%27s+OCR+Feature%3A+Extracting+Text+from+Images&lang=en&timestamp=1688581053&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Testing Nyzx Discord Bot's OCR Feature: Extracting Text from Images")](https://www.youtube.com/watch?v=5qOUVkR1BzI)
-[![NYZX | Discord Scam Detector V2.0 (.NET Reverse) - Protecting Users from Suspicious Content](https://ytcards.demolab.com/?id=TOE63uw_kLk&title=NYZX+%7C+Discord+Scam+Detector+V2.0+%28.NET+Reverse%29+-+Protecting+Users+from+Suspicious+Content&lang=en&timestamp=1657998958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NYZX | Discord Scam Detector V2.0 (.NET Reverse) - Protecting Users from Suspicious Content")](https://www.youtube.com/watch?v=TOE63uw_kLk)
+
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
 
