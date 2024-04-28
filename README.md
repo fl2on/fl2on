@@ -59,11 +59,8 @@
   <summary><h3>📽️Latest YouTube Videos</h2></summary>
   <br/>
 
-  <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
 
 </details>
 
