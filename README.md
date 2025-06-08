@@ -23,7 +23,7 @@
 - <img alt="GIF" src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="25" /> &nbsp; **Machine learning** is an area I'm focusing on right now. <img width="15%" align="right" alt="Github Image" src="https://thepixelshopapp.files.wordpress.com/2022/11/5ae52-tanuki_sumiez.gif" /><br>
 - <img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="20" />&nbsp;&nbsp;&nbsp; I’m Currently Working on **NYZX**. <br>
 - <img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" width="25" />&nbsp;&nbsp; Ask me about **Custom Mechanical Keyboard**, **Pc building, Technology, or anything else**. <br>
-- <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; You may Contact me Here: <strong><a href="https://fl2on.github.io/Mail/" target="_blank">fl2on</a></strong><br>
+- <img src="https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif" width="25" /> &nbsp; You may Contact me Here: <strong><a href="https://dev-portafolio-olive.vercel.app/" target="_blank">fl2on</a></strong><br>
 - <img src="https://cdn3.emoji.gg/emojis/9099-happy-spongebob.gif" width="25" /> &nbsp; I’m Currently a Student of Systems Engineering at **[UIP](https://uip.edu.pa/)**.<br>
 
 ## <img src="https://raw.githubusercontent.com/fl2on/fl2on/main/resources/img/discord.svg" width="22px" height="22px" /> DiscordRPC
