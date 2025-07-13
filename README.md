@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/fl2on/fl2on/main/resources/img/header.png" alt="GitHub README header image">
+<img src="https://github.com/user-attachments/assets/6dc82eda-3b0f-49a4-b739-72319e1dc79d" alt="GitHub README header image">
+
 <div align="left">
   <details>
     <summary>:globe_with_meridians: Languages Available</summary>
