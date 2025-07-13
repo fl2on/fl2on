@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6dc82eda-3b0f-49a4-b739-72319e1dc79d" alt="GitHub README header image">
+<img width="2394" height="734" alt="image" src="https://github.com/user-attachments/assets/206edacf-582d-42d4-bdf6-dc52f2225eb0" />
 
 <div align="left">
   <details>
