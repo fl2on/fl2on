@@ -1,5 +1,4 @@
-<img width="2394" height="734" alt="image" src="https://github.com/user-attachments/assets/206edacf-582d-42d4-bdf6-dc52f2225eb0" />
-
+<img src="https://github.com/user-attachments/assets/206edacf-582d-42d4-bdf6-dc52f2225eb0" alt="GitHub README header image">
 <div align="left">
   <details>
     <summary>:globe_with_meridians: Languages Available</summary>
